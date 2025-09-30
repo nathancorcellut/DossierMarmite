@@ -8,7 +8,6 @@ int main(){
     printf("Et voila les enfants, c'était la Aventure!");
     printf("La ligne 9 écrite depuis GitHub dans l'editeur");
     printf("Le manual correcteur a decidé que ca suffit ainsi");
-
-    printf("De mon cote je ne sais pas que je vais etre embeté!");
+    printf("Alles reporiert!");
     return 1;
 }
