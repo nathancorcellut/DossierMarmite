@@ -6,5 +6,6 @@ int main(){
     printf("Mais c'est impossible Uncle Tom là!");
     /*printf("La GRANDE classe le commit a la mano !");*/
     printf("Et voila les enfants, c'était la Aventure!");
+    printf("La ligne 9 ecrite depuis VSCODE!");
     return 1;
 }
